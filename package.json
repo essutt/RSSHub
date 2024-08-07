@@ -193,7 +193,5 @@
         "yaml-eslint-parser": "1.2.3"
     },
     "packageManager": "pnpm@9.6.0",
-    "engines": {
-        "node": ">=22"
-    }
+    "engines": { "node": "20.x" }
 }
